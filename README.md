@@ -1,2 +1,2 @@
-# SQA_Batch_15
+# SQA_Batch_15 QA
 Testing area for SQA batch 15
